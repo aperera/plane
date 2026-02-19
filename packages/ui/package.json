@@ -59,11 +59,11 @@
     "postcss-cli": "^11.0.0",
     "postcss-nested": "^6.0.1",
     "react": "^18.2.0",
-    "storybook": "^8.1.1",
+    "storybook": "^10.2.10",
     "tailwind-config-custom": "*",
     "tailwindcss": "^3.4.3",
     "tsconfig": "*",
-    "tsup": "^5.10.1",
+    "tsup": "^8.5.1",
     "typescript": "4.7.4"
   }
 }
